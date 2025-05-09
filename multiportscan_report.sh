@@ -4,7 +4,7 @@ set -x
 servers=("")  # ← Add your IPs/hostnames here
 
 # Email recipient
-recipient="wavinyapetronilla@gmail.com"
+recipient=""
 
 # Temp files
 report_txt="/tmp/portscan-report.txt"
